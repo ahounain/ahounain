@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ahounain
-- 👀 I’m interested in IOS Programming and App Development.
-- 🌱 I’m currently learning Algorithms and Data Structures.
+- 👋 Hi, I’m Ali Hounain!
+- 👀 I’m interested in **Web Development** and **AI**.
+- 🌱 I’m currently learning about **Operating Systems** and **Compilers**.
 - 📫 How to reach me : ali.hounain@gmail.com
 
 <!---
