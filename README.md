@@ -7,8 +7,8 @@
 ahounain/ahounain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src = "https://raw.githubusercontent.com/ahounain/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-![](https://raw.githubusercontent.com/ahounain/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ahounain/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ahounain/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/ahounaine/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ahounain/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ahounaine/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ahounain/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
